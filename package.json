@@ -1,6 +1,6 @@
 {
     "name": "okcoin-china",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Nodejs API wrapper for OKCoin China",
     "main": "okcoin.js",
     "dependencies": {
@@ -29,6 +29,7 @@
     "homepage": "https://github.com/xhad/okcoin-china#readme",
     "_id": "okcoin-china@0.0.1",
     "scripts": {},
+    "_shasum": "840db0e3fe0989a0c74e2838a770c15a4e8041ca",
     "_from": "okcoin-china@latest",
     "_npmVersion": "2.14.2",
     "_nodeVersion": "4.0.0",
