@@ -9,9 +9,6 @@ Please contact support@okcoin.com if you are having trouble opening and account 
 
 `npm install okcoin-china`
 
-[Github Repo](https://github.com/xhad/okcoin-china)
-
-
 ```js
 var OKCoin = require('okcoin');
 
