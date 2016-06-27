@@ -1,5 +1,7 @@
 # OKCoin China API Wrapper
 
+forked from [naddison36](https://github.com/naddison36/okcoin)
+
 A node.js wrapper for the [REST APIs](https://www.okcoin.cn/about/rest_api.do) exposed by bitcoin exchange [OKCoin](https://www.okcoin.cn).
 You will need have a registered account with [OKCoin](https://www.okcoin.cn) and generated API keys to access the private methods.
 
