@@ -4,7 +4,6 @@ forked from [naddison36](https://github.com/naddison36/okcoin)
 
 A node.js wrapper for the [REST APIs](https://www.okcoin.cn/about/rest_api.do) exposed by bitcoin exchange [OKCoin](https://www.okcoin.cn).
 You will need have a registered account with [OKCoin](https://www.okcoin.cn) and generated API keys to access the private methods.
-
 Please contact support@okcoin.com if you are having trouble opening and account or generating an API key.
 
 ### Install
