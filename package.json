@@ -1,6 +1,6 @@
 {
     "name": "okcoin-china",
-    "version": "0.0.4",
+    "version": "0.0.6",
     "description": "Nodejs API wrapper for OKCoin China",
     "main": "rest.js",
     "dependencies": {

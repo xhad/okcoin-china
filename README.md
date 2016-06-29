@@ -5,7 +5,7 @@ You will need to have a registered account with [OKCoin](https://www.okcoin.cn) 
 
 Please contact support@okcoin.com if you are having trouble opening an account or generating an API key.
 
-This modules is forked from [okcoin](https://www.npmjs.com/~naddison36).
+This module is forked from [okcoin](https://www.npmjs.com/~naddison36).
 
 ### Install
 
