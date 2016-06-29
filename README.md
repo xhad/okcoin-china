@@ -1,5 +1,6 @@
 # OKCoin China API Wrapper
 
+
 A node.js wrapper for the [REST APIs](https://www.okcoin.cn/about/rest_api.do) exposed by bitcoin exchange [OKCoin](https://www.okcoin.cn).
 You will need to have a registered account with [OKCoin](https://www.okcoin.cn) and generated API keys to access the private methods.
 
@@ -7,12 +8,16 @@ Please contact support@okcoin.com if you are having trouble opening an account o
 
 This module is forked from [okcoin](https://www.npmjs.com/~naddison36).
 
+forked from [naddison36](https://github.com/naddison36/okcoin)
+
+A node.js wrapper for the [REST APIs](https://www.okcoin.cn/about/rest_api.do) exposed by bitcoin exchange [OKCoin](https://www.okcoin.cn).
+You will need to have a registered account with [OKCoin](https://www.okcoin.cn) and generated API keys to access the private methods.
+
+Please contact support@okcoin.com if you are having trouble opening and account or generating an API key.
+
 ### Install
 
 `npm install okcoin-china`
-
-[Github Repo](https://github.com/xhad/okcoin-china)
-
 
 ```js
 var OKCoin = require('okcoin-china');
