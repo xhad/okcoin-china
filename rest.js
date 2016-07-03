@@ -3,7 +3,7 @@ const _ = require('underscore');
 const request = require('request');
 const crypto = require('crypto');
 const VError = require('verror');
-const md5 = require('MD5');
+const md5 = require('md5');
 
 var OKCoin = function (api_key, secret, server, timeout) {
   this.api_key = api_key;
