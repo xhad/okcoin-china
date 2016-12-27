@@ -108,7 +108,7 @@ OKCoin.prototype.publicRequest = function(method, params, callback) {
         headers: headers,
         timeout: this.timeout,
         qs: params,
-        json: {}        // request will parse the json response into an object
+        //json: {}        // request will parse the json response into an object
     };
 
     var requestDesc = util.format('%s request to url %s with parameters %s',
