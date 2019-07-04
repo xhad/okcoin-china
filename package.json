@@ -1,40 +1,45 @@
 {
-    "name": "okcoin-china",
-    "version": "0.0.7",
-    "description": "Nodejs API wrapper for OKCoin China",
-    "main": "rest.js",
-    "dependencies": {
-      "request": "~2.67.0",
-      "underscore": "~1.8.3",
-      "crypto": "~0.0.3",
-      "verror": "~1.6.0",
-      "md5": "2.x"
-    },
-    "keywords": [
-        "OKCoin",
-        "China",
-        "api",
-        "exchange",
-        "bitcoin"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/xhad/okcoin-china.git"
-    },
-    "author": "Chad Lynch",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/xhad/okcoin-china/issues"
-    },
-    "homepage": "https://github.com/xhad/okcoin-china#readme",
-    "_id": "okcoin-china@0.0.1",
-    "scripts": {},
-    "_shasum": "840db0e3fe0989a0c74e2838a770c15a4e8041ca",
-    "_from": "okcoin-china@latest",
-    "_npmVersion": "2.14.2",
-    "_nodeVersion": "4.0.0",
-    "_npmUser": {
-        "name": "xhad",
-        "email": "clynch33@gmail.com"
-}
+  "name": "okcoin-china",
+  "version": "0.0.7",
+  "description": "Nodejs API wrapper for OKCoin China",
+  "main": "rest.js",
+  "dependencies": {
+    "request": "~2.67.0",
+    "underscore": "~1.8.3",
+    "crypto": "~0.0.3",
+    "verror": "~1.6.0",
+    "md5": "2.x",
+    "snyk": "^1.189.0"
+  },
+  "keywords": [
+    "OKCoin",
+    "China",
+    "api",
+    "exchange",
+    "bitcoin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhad/okcoin-china.git"
+  },
+  "author": "Chad Lynch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xhad/okcoin-china/issues"
+  },
+  "homepage": "https://github.com/xhad/okcoin-china#readme",
+  "_id": "okcoin-china@0.0.1",
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "_shasum": "840db0e3fe0989a0c74e2838a770c15a4e8041ca",
+  "_from": "okcoin-china@latest",
+  "_npmVersion": "2.14.2",
+  "_nodeVersion": "4.0.0",
+  "_npmUser": {
+    "name": "xhad",
+    "email": "clynch33@gmail.com"
+  },
+  "snyk": true
 }
