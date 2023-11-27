@@ -4,7 +4,7 @@
     "description": "Nodejs API wrapper for OKCoin China",
     "main": "rest.js",
     "dependencies": {
-      "request": "~2.67.0",
+      "request": "~2.80.0",
       "underscore": "~1.8.3",
       "crypto": "~0.0.3",
       "verror": "~1.6.0",
